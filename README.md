@@ -208,10 +208,10 @@ Based on research in AI-powered home security systems. See our [full academic re
 
 ## 📧 Contact
 
-**Tadiwanashe Matara**
-- GitHub: [@Tadiwa-M](https://github.com/Tadiwa-M)
-- LinkedIn: [[Connect with me](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tadiwanashe-matara-a3479a19a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- Email: Tkl.matara@student.maastrichtuniversity.nl
+**Stefani Parvina**
+- GitHub: https://github.com/stefaniparvina
+- LinkedIn: linkedin.com/in/stefani-parvina-634130313
+- Email: stefani.parvina@gmail.com
 
 ---
 
