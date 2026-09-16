@@ -128,16 +128,14 @@ Our system was rigorously tested across 15 scenarios including:
 - Clothing variations (hooded, masked)
 - Environmental false triggers (shadows, objects, pets)
 
-**Full research paper**: [View PDF Report](./17-FinalReport-1.pdf)
-
-### Energy Optimization Results
-
 We tested multiple optimization strategies:
 - **PIR-Triggered Detection**: 67.2% reduction in CPU usage
 - **Frame Skipping**: Configurable sampling rates (0.05s to 1s intervals)
 - **Idle Scheduling**: Minimal resource usage during inactivity
 
-See our [detailed experimental results](./17-FinalReport-1.pdf) for complete performance analysis.
+See our research paper for complete performance analysis.
+
+**Research paper:** [View PDF Report](./17-FinalReport-1.pdf)
 
 ## 📁 Project Structure
 
@@ -196,7 +194,7 @@ Traditional PIR sensors trigger on any thermal change. Our system adds a second 
 
 This project was developed as part of an IoT systems course at Maastricht University. Contributions, issues, and feature requests are welcome!
 
-**Team Members**: Deniz Derviş, John Fourlas, Tadiwanashe Matara, Cristian Nițu, Stefani Parvina, Melodie Prudhomme, Raman Yousefi Avarzaman
+**Team Members**: Stefani Parvina, Deniz Derviş, John Fourlas, Tadiwanashe Matara, Cristian Nițu, Melodie Prudhomme, Raman Yousefi Avarzaman
 
 ## 📄 License
 
@@ -212,7 +210,3 @@ Based on research in AI-powered home security systems. See our [full academic re
 - GitHub: https://github.com/stefaniparvina
 - LinkedIn: www.linkedin.com/in/stefani-parvina-634130313
 - Email: stefani.parvina@gmail.com
-
----
-
-⭐ If you find this project useful, please consider starring it!
