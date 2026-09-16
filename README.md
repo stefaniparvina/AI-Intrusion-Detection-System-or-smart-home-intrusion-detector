@@ -210,7 +210,7 @@ Based on research in AI-powered home security systems. See our [full academic re
 
 **Stefani Parvina**
 - GitHub: https://github.com/stefaniparvina
-- LinkedIn: linkedin.com/in/stefani-parvina-634130313
+- LinkedIn: www.linkedin.com/in/stefani-parvina-634130313
 - Email: stefani.parvina@gmail.com
 
 ---
